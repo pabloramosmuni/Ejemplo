@@ -7,7 +7,7 @@ namespace ConsoleApp1
 
         public void Metodo1()
         {
-            ///
+            ///Se corrige bug 1
         }
         static void Main(string[] args)
         {
