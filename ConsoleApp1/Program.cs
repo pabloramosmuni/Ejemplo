@@ -20,7 +20,11 @@ namespace ConsoleApp1
             ////Cambios Ufide
             ////cambio en Funcionalidad
         }
+        public void Metodo3()
+        {
 
+
+        }
 
     }
 }
