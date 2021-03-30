@@ -8,6 +8,7 @@ namespace ConsoleApp1
         public void Metodo1()
         {
             ///Se corrige bug 1
+            ///// Se modifica a solicitud
         }
         static void Main(string[] args)
         {
